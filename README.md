@@ -32,7 +32,7 @@
 
 ###
 
-<p align="center">learning something new every day, one step at a time 🌱</p>
+<p align="center">learning something new every day 🌱</p>
 
 ###
 
