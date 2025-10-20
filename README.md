@@ -22,17 +22,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=annmayli.annmayli&"  />
-</div>
-
-###
-
 <h2 align="center">💻 About Me</h2>
 
 ###
 
-<p align="center">learning something new every day 🌱</p>
+<p align="center">learn something new every day 🌱</p>
 
 ###
 
