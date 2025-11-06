@@ -22,7 +22,7 @@
 
 ###
 
-<p align="center">learn something new every day 🌱</p>
+<p align="center">learn something new every day!</p>
 
 ###
 
